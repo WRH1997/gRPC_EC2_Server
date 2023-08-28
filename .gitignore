@@ -1,4 +1,6 @@
-.DS_Store
-**/.DS_Store
-**/.idea
-**/A*.iml
+
+!/*.iml
+/venv/
+/*.iml
+/keys.json
+/.idea/
